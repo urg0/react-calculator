@@ -3,7 +3,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/github_username/repo_name">
-    <img src="https://github.com/urg0/react-calculator/assets/81859377/896de941-bb3c-4a99-8d8a-34e01aa3de86" alt="Logo" width="200" height="60">
+    <img src="https://github.com/urg0/react-calculator/assets/81859377/896de941-bb3c-4a99-8d8a-34e01aa3de86" alt="Logo" width="80" height="80">
 
   </a>
 
